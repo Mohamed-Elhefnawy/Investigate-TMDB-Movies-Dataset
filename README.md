@@ -10,7 +10,7 @@ Exploratory analysis of about 10,000 movies from The Movie Database (TMDb) with 
 
 1. **Budget and rating:** almost no relationship (Spearman correlation about 0.04).
 2. **Budget and revenue:** positively related, correlation about 0.69 among the 3,854 movies with both values recorded. This is an association, not proof of cause.
-3. **Budgets over time:** the median budget grew from a few million dollars in the 1960s to tens of millions in the 2000s (nominal dollars, not adjusted for inflation).
+3. **Budgets over time:** Annual median budgets peaked at $33.5 million in 1997, then declined to $15 million in 2015. These figures exclude zero-budget records and are not adjusted for inflation.
 4. **Runtime and revenue:** median revenue rises with runtime, from about $24M (up to 90 minutes) to about $100M (over 150 minutes).
 5. **Ratings:** the median average rating is 6.0.
 
